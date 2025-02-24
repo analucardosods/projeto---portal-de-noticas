@@ -16,8 +16,8 @@ Este é um projeto de um **portal de notícias** desenvolvido como parte de um d
 
 ## 🔥 Como acessar o projeto?
 O portal está publicado no GitHub Pages!  
-👉 https://analucardosods.github.io/projeto---portal-de-noticas/
+👉 (https://analucardosods.github.io/projeto-portal-de-noticas/)
 
 ## 📂 Como rodar o projeto localmente?
 1. Clone este repositório:  
-https://github.com/analucardosods/projeto---portal-de-noticas.git
+https://github.com/analucardosods/projeto-portal-de-noticas.git
