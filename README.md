@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/6c9335f9-a5e1-4817-92a0-a719a2f81016)
+
+
 # 📰 Portal de Notícias  
 
 Este é um projeto de um **portal de notícias** desenvolvido como parte de um desafio da Rocketseat. O objetivo foi construir uma página estilizada utilizando **HTML e CSS**.
